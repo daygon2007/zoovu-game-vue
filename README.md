@@ -1,6 +1,7 @@
 # Zoovu Recruitment Project
 
 > A Vue.js project
+
 > Live URL: [https://daygon2007.github.io/zoovu-game-vue/dist/i-want-to-play-a-game.html](https://daygon2007.github.io/zoovu-game-vue/dist/i-want-to-play-a-game.html)
 
 ## Build Setup
