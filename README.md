@@ -1,6 +1,6 @@
 # Zoovu Recruitment Project
 
-> A Vue.js project
+> A Vue.js project for Zoovu to use as a technical assessment.
 
 > Live URL: [https://daygon2007.github.io/zoovu-game-vue/dist/i-want-to-play-a-game.html](https://daygon2007.github.io/zoovu-game-vue/dist/i-want-to-play-a-game.html)
 
